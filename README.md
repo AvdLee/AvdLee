@@ -7,7 +7,7 @@ You can support my [open-source repositories](https://github.com/AvdLee?tab=repo
 
 **New supporters will get:**
 - A shoutout on my [Twitter](https://www.twitter.com/twannl) ***(10K+ Followers)***
-- A shoutout on my [Blog](https://www.avanderlee.com/supporters) ***(70K+ Monthly Visitors)*
+- A shoutout on my [Blog](https://www.avanderlee.com/supporters) ***(70K+ Monthly Visitors)***
 - A shoutout in my [Newsletter](rebrand.ly/6xjvpel) ***(1.8K Subscribers)***
 
 **Find me:**
