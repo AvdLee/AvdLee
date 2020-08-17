@@ -8,8 +8,8 @@ You can support my [open-source repositories](https://github.com/AvdLee?tab=repo
 **New supporters will get:**
 - A shoutout on my [Twitter](https://www.twitter.com/twannl)
 - A shoutout on my [LinkedIn](https://www.linkedin.com/in/ajvanderlee/)
-- A shoutout on my [blog](https://www.avanderlee.com/supporters)
-- A shoutout in my [newsletter](rebrand.ly/6xjvpel
+- A shoutout on my [Blog](https://www.avanderlee.com/supporters)
+- A shoutout in my [Newsletter](rebrand.ly/6xjvpel)
 
 **Find me:**
 - Blogging weekly at [SwiftLee](https://www.avanderlee.com)
