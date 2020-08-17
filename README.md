@@ -6,10 +6,9 @@
 You can support my [open-source repositories](https://github.com/AvdLee?tab=repositories&q=&type=public&language=), [Mac App](https://rocketsim.app/), weekly blog and newsletter containing [free Swift content](https://www.avanderlee.com).
 
 **New supporters will get:**
-- A shoutout on my [Twitter](https://www.twitter.com/twannl)
-- A shoutout on my [LinkedIn](https://www.linkedin.com/in/ajvanderlee/)
-- A shoutout on my [Blog](https://www.avanderlee.com/supporters)
-- A shoutout in my [Newsletter](rebrand.ly/6xjvpel)
+- A shoutout on my [Twitter](https://www.twitter.com/twannl) ***(10K+ Followers)***
+- A shoutout on my [Blog](https://www.avanderlee.com/supporters) ***(70K+ Monthly Visitors)*
+- A shoutout in my [Newsletter](rebrand.ly/6xjvpel) ***(1.8K Subscribers)***
 
 **Find me:**
 - Blogging weekly at [SwiftLee](https://www.avanderlee.com)
