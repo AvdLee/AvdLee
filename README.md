@@ -9,6 +9,6 @@ All my content is completely free which is made possible by your support.
 
 **My work:**
 - Blogging weekly at [SwiftLee](https://www.avanderlee.com) ***(240K+ Monthly Views)***
-- Curating articles in [SwiftLee Weekly](https://avanderlee.com/swiftlee-weekly-subscribe) ***(7.4K Subscribers)***
-- Sharing my knowledge on [Twitter](https://www.twitter.com/twannl) ***(20K+ Followers)***
+- Curating articles in [SwiftLee Weekly](https://avanderlee.com/swiftlee-weekly-subscribe) ***(15.4K Subscribers)***
+- Sharing my knowledge on [Twitter](https://www.twitter.com/twannl) ***(45K+ Followers)***
 - Improving developer productivity with [RocketSim](https://www.rocketsim.app)
