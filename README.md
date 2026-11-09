@@ -16,6 +16,7 @@ All my content is completely free which is made possible by your support.
 - Blogging weekly at [SwiftLee](https://www.avanderlee.com) ***(240K+ Monthly Views)***
 - Curating articles in [SwiftLee Weekly](https://avanderlee.com/swiftlee-weekly-subscribe) ***(27.4K Subscribers)***
 - Teaching concurrency via [swiftconcurrencycourse.com](https://www.swiftconcurrencycourse.com)
+- Teaching agentic coding via [AI Fundamentals](https://aifundamentals.dev), a tool-agnostic course for developers
 
 ## My Apps
 
@@ -25,3 +26,6 @@ Alongside SwiftLee, I build tools for iOS developers and for everyday iPhone use
 - **[RocketTrace](https://rockettrace.app/?utm_source=avanderlee&utm_medium=referral&utm_campaign=rockettrace&utm_content=about)**: Find performance problems in Xcode Instruments traces.
 - **[MCP Beast](https://mcp-beast.ai/mac-app-ios-developers?utm_source=avanderlee&utm_medium=referral&utm_campaign=mcp_beast&utm_content=about)**: One private gateway for the MCP servers and tools in your developer stack.
 - **[Video Compressor](https://videocompression.app/?utm_source=avanderlee&utm_medium=referral&utm_campaign=video_compressor&utm_content=about)**: An iPhone app that finds your largest videos, shows the saving before you compress, and compresses on-device so nothing is uploaded.
+- **[Stock Analyzer](https://www.stock-analyzer.app/?utm_source=avanderlee&utm_medium=referral&utm_campaign=stock_analyzer&utm_content=about)**: An iPhone app with A to E scores for 30,000+ stocks and ETFs, based on fundamental analysis.
+
+All my apps, courses and writing are also listed at [avdlee.github.io](https://avdlee.github.io/).
